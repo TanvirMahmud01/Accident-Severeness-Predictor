@@ -11,5 +11,5 @@ Run these instructions in the terminal window of the root folder
 3. Install requirements:
    pip install -r requirements.txt
 
-4. Run application
+4. Run application:
    flask --app app run
