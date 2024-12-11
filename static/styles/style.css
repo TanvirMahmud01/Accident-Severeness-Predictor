@@ -1,0 +1,29 @@
+label {
+  text-align: left !important;
+  font-size: 14px;
+}
+h1 {
+  margin: 20px;
+}
+input,
+select {
+  margin-bottom: 20px;
+  padding: 0 5px;
+}
+p.long_value {
+  margin-left: 31%;
+  font-size: 14px;
+}
+
+.btn {
+  margin: 0;
+  font-weight: 500;
+  padding: 7px 25px;
+}
+.submit_btn {
+  text-align: center;
+}
+
+form {
+  margin-bottom: 20px;
+}
